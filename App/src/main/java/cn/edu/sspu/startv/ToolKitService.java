@@ -14,7 +14,7 @@ import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 
 import com.blankj.utilcode.util.ServiceUtils;
-import com.tencent.trtc.apiexample.R;
+import cn.edu.sspu.startv.R;
 
 /**
  * 该 Service 用于应用保活，勿删

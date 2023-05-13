@@ -7,7 +7,7 @@ import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.tencent.trtc.apiexample.R;
+import cn.edu.sspu.startv.R;
 import cn.edu.sspu.audiocall.AudioCallingEnterActivity;
 import cn.edu.sspu.live.LiveEnterActivity;
 import cn.edu.sspu.screenshare.ScreenEntranceActivity;
