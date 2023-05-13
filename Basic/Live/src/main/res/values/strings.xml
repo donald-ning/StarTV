@@ -1,5 +1,5 @@
 <resources>
-    <string name="live_title">TRTC 视频互动直播示例</string>
+    <string name="live_title">StarTV视频互动直播</string>
     <string name="live_please_select_role">请选择角色（必填项）</string>
     <string name="live_room_input_error_tip">房间号和用户名不能为空</string>
     <string name="live_mute">静音</string>

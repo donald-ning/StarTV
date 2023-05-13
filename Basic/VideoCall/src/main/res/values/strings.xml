@@ -1,5 +1,5 @@
 <resources>
-    <string name="videocall_title">TRTC 视频通话示例</string>
+    <string name="videocall_title">StarTV视频通话</string>
     <string name="videocall_room_input_error_tip">"房间号和用户名不能为空"</string>
     <string name="videocall_video_item">视频选项</string>
     <string name="videocall_audio_item">音频选项</string>
