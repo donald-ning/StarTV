@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.sspu.live">
+
+    <application>
+        <activity android:name="cn.edu.sspu.live.LiveEnterActivity" />
+        <activity android:name="cn.edu.sspu.live.LiveAnchorActivity" />
+        <activity android:name="cn.edu.sspu.live.LiveAudienceActivity" />
+    </application>
+
+</manifest>

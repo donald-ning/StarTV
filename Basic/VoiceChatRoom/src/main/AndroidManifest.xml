@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.edu.sspu.voicechatoom">
+
+    <application>
+        <activity android:name="cn.edu.sspu.voicechatoom.VoiceChatRoomAnchorActivity" />
+        <activity android:name="cn.edu.sspu.voicechatoom.VoiceChatRoomAudienceActivity" />
+        <activity android:name="cn.edu.sspu.voicechatoom.VoiceChatRoomEnterActivity" />
+    </application>
+</manifest>
