@@ -1,0 +1,10 @@
+include ':App'
+include ':Debug'
+include ':Common'
+include ':Basic:VideoCall'
+include ':Basic:Live'
+include ':Basic:AudioCall'
+include ':Basic:VoiceChatRoom'
+include ':Basic:ScreenShare'
+
+rootProject.name = 'StarTV'
