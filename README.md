@@ -2,7 +2,7 @@
 
 APP下载：[StarTV.apk](./StarTV.apk)
 
-<img src="images/WechatIMG26.jpeg" width="288px" align="left">
+<img src="images/WechatIMG26.jpeg" width="288px" align="center">
 <br>
 0. 关于本项目
 
@@ -19,12 +19,12 @@ APP下载：[StarTV.apk](./StarTV.apk)
 
 2. 功能结构
 
-<img src="images/tree.png" width="300px" align="left">
+<img src="images/tree.png" width="300px" align="center">
 <br>
 - 将主要的5个功能分别以Module的形式实现。每个Module具体以腾讯音视频平台提供的SDK实现。
 
 - 主要功能是创建一个房间，输入名字，进入房间可以音视频通话。
 
 3. 腾讯音视频授权
-<img src="images/GenerateTestUserSig.png" width=350px align="left"><br>
+<img src="images/GenerateTestUserSig.png" width=350px align="center"><br>
    授权文件在Debug中，主要设置GenerateTestUserSig中的SDKAPPID和SECRETKEY。这两个key主要由腾讯音视频平台获得。
