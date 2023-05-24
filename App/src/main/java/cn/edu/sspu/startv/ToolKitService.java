@@ -64,7 +64,7 @@ public class ToolKitService extends Service {
         // Android8.0以上的系统，新建消息通道
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             //用户可见的通道名称
-            String channelName = "TRTC Foreground Service Notification";
+            String channelName = "StarTV Foreground Service Notification";
             int importance = NotificationManager.IMPORTANCE_HIGH;
             NotificationChannel notificationChannel =
                     new NotificationChannel(notificationChannelId, channelName, importance);
